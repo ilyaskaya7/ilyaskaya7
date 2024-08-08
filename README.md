@@ -30,8 +30,6 @@ Here are some of the projects I've been working on:
 ## Contact
 - **Email:** [Your Email]
 - **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **Personal Website/Blog:** [Your Website/Blog]
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to connecting with fellow enthusiasts and professionals!
 
