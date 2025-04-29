@@ -11,6 +11,10 @@ I'm Ilyas, a dedicated Software Engineer with a strong focus on data engineering
 - Data Pipelines
 - Large-scale Data Architectures
 - Python, Java
+- SQL & NoSQL Databases (PostgreSQL, MongoDB, MySQL)
+- Data Warehousing (Snowflake, Redshift, BigQuery)
+- APIs & Microservices
+- ETL/ELT Development
 
 ## Contact
 - **Email:** ilyas97kaya@gmail.com
