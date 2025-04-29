@@ -3,22 +3,7 @@
 # About Me
 Hi There 👋!
 
-I'm Ilyas, a passionate Data Engineer. I enjoy working on various projects that involve data processing, data pipelines, and large-scale data architectures. I'm always eager to learn and collaborate on exciting new ideas.
-
-## Projects
-Here are some of the projects I've been working on:
-
-### 1. Project Name
-**Description:** A brief description of the project, its purpose, and key features.  
-**Technologies Used:** List the main technologies and tools used in this project.
-
-### 2. Project Name
-**Description:** A brief description of the project, its purpose, and key features.  
-**Technologies Used:** List the main technologies and tools used in this project.
-
-### 3. Project Name
-**Description:** A brief description of the project, its purpose, and key features.  
-**Technologies Used:** List the main technologies and tools used in this project.
+I'm Ilyas, a dedicated Software Engineer with a strong focus on data engineering. I specialize in building robust data pipelines, processing large datasets, and designing scalable data architectures. I'm driven by a passion for continuous learning and enjoy collaborating on innovative, high-impact engineering projects.
 
 ## Skills
 - Data Engineering
@@ -28,11 +13,11 @@ Here are some of the projects I've been working on:
 - [Other Relevant Skills]
 
 ## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** ilyas97kaya@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ilyaskaya7/
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to connecting with fellow enthusiasts and professionals!
 
 Thank you for visiting my profile!
 
-*Last updated on August 8th 2024.*
+*Last updated on April 29th 2025.*
