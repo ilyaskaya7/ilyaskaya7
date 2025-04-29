@@ -10,7 +10,7 @@ I'm Ilyas, a dedicated Software Engineer with a strong focus on data engineering
 - Data Processing
 - Data Pipelines
 - Large-scale Data Architectures
-- [Other Relevant Skills]
+- Python, Java
 
 ## Contact
 - **Email:** ilyas97kaya@gmail.com
